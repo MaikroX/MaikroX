@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @MaikroX
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m @MaikroX
+I’m interested in Front End development.
+I’m currently learning Javascript.
 
 <!---
 MaikroX/MaikroX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
