@@ -1,4 +1,4 @@
-Hi, I’m @MaikroX
+Hi, I’m @MaikroX - 
 Front End Javascript & Angular developer.
 
 <!---
