@@ -1,6 +1,5 @@
 Hi, I’m @MaikroX
-I’m interested in Front End development.
-I’m currently learning Javascript.
+I’m Front End Javascript & Angular developer.
 
 <!---
 MaikroX/MaikroX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
