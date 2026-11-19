@@ -1,5 +1,5 @@
 Hi, I’m @MaikroX - 
-Front End Javascript & Angular developer.
+Front End Javascript & React developer.
 
 <!---
 MaikroX/MaikroX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
